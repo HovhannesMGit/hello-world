@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\mynew\desktop\new folder (4)\mytetris\mytetris\main.cpp(798): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mynew\desktop\new folder (4)\mytetris\mytetris\main.cpp(583): warning C4715: 'factory': not all control paths return a value
+  MyTetris.vcxproj -> C:\Users\mynew\Desktop\New folder (4)\MyTetris\Debug\MyTetris.exe
